@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in ... Exploring new Challanges!
 - 🌱 I’m currently learning ...New Worlds
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ... haradhan.sharma@gmail.com
 - https://www.upwork.com/freelancers/~0166a448a65b1641fb?s=1017484851352698949
 
