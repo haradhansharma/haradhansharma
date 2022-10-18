@@ -18,51 +18,51 @@ I have professional expertise in creating web applications, web ERP, CRM, eComme
 
 I've been employed in the coding field for at least ten years.
 
-My Backend Experience in:
-## Django
-## Python
-## Django Rest Framework
-## Opencart Framework
-## Drupal
-## Drupal Commerce
-## MySQL
-## PgSQL
-## Background Task
-## Web Scraping
-## Reportlab
-## Pandas
+##My Backend Experience in:
+- Django
+- Python
+- Django Rest Framework
+- Opencart Framework
+- Drupal
+- Drupal Commerce
+- MySQL
+- PgSQL
+- Background Task
+- Web Scraping
+- Reportlab
+- Pandas
 
-Front End Experience In :
-## Bootstrap
-## HTMX
-## HTML
-## CSS
-## Jquery
-## HTMLtoPDF
+##Front End Experience In :
+- Bootstrap
+- HTMX
+- HTML
+- CSS
+- Jquery
+- HTMLtoPDF
 
 
-Knowledge In:
-## API Integration
-## Payment Method Integration
-## ERP Development
-## CRM Development
-## eCommerce Functionlity
-## Data Modeling
-## Business Logic Implementation
-## Fundamental Linux
-## Web Server
+##Knowledge In:
+- API Integration
+- Payment Method Integration
+- ERP Development
+- CRM Development
+- eCommerce Functionlity
+- Data Modeling
+- Business Logic Implementation
+- Fundamental Linux
+- Web Server
 
-Others But Not Limited To:
-## CWP
-## Cpanel
-## Pythonanywhere
-## Github
-## VPS
-## CLO3D
-## 3D Apparel 
-## Adobe CC
-## MS Office
-## VS
+##Others But Not Limited To:
+- CWP
+- Cpanel
+- Pythonanywhere
+- Github
+- VPS
+- CLO3D
+- 3D Apparel 
+- Adobe CC
+- MS Office
+- VS
 
 Also, I Have Experience in Business Operation, Planning, and co-ordination, Branding, Content Marketing, Production Management, Technical Fashion Designing,
 
