@@ -18,7 +18,7 @@ I have professional expertise in creating web applications, web ERP, CRM, eComme
 
 I've been employed in the coding field for at least ten years.
 
-##My Backend Experience in:
+## My Backend Experience in:
 - Django
 - Python
 - Django Rest Framework
@@ -32,7 +32,7 @@ I've been employed in the coding field for at least ten years.
 - Reportlab
 - Pandas
 
-##Front End Experience In :
+## Front End Experience In :
 - Bootstrap
 - HTMX
 - HTML
@@ -41,7 +41,7 @@ I've been employed in the coding field for at least ten years.
 - HTMLtoPDF
 
 
-##Knowledge In:
+## Knowledge In:
 - API Integration
 - Payment Method Integration
 - ERP Development
@@ -52,7 +52,7 @@ I've been employed in the coding field for at least ten years.
 - Fundamental Linux
 - Web Server
 
-##Others But Not Limited To:
+## Others But Not Limited To:
 - CWP
 - Cpanel
 - Pythonanywhere
