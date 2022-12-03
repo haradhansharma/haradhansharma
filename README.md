@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haradhansharma
-(Full-Stack php+Opencart3 framework-Expert || Full-stack Python3+Django --Expert)
+(Web Programming || e-Commerce Specialist || Data Analyst || Apparel || Fashion Designing)
 
 - 👀 I’m interested in ... Exploring new Challanges!
 - 🌱 I’m currently learning ...New Worlds
