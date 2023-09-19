@@ -1,6 +1,6 @@
-===========================
+==========================
 👋 Hi, I’m @haradhansharma
-===========================
+==========================
 
 *** Web Programming || Web Development || Python || Django || Opencart || ERP || CRM || eCommerce
 *** Experienced in Textile Industries || 3D Apparel Designing Designing || Techpack Designing || Knitwear
