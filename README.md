@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @haradhansharma
-(Web Programming || e-Commerce Specialist || Data Analyst || Apparel || Fashion Designing)
+===========================
+👋 Hi, I’m @haradhansharma
+===========================
+
+*** Web Programming || Web Development || Python || Django || Opencart || ERP || CRM || eCommerce
+*** Experienced in Textile Industries || 3D Apparel Designing Designing || Techpack Designing || Knitwear
+*** Entrepreneurship 
 
 - 👀 I’m interested in ... Exploring new Challanges!
 - 🌱 I’m currently learning ...New Worlds
