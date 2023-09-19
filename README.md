@@ -4,8 +4,10 @@
 
 - Web Programming || Web Development || Python || Django || Opencart || ERP || CRM || eCommerce
 - Experienced in Textile Industries || 3D Apparel Designing Designing || Techpack Designing || Knitwear
-- Entrepreneurship 
-=============================
+- Entrepreneurship
+
+  
+
 - 👀 I’m interested in ... Exploring new Challanges!
 - 🌱 I’m currently learning ...New Worlds
 - 💞️ I’m looking to collaborate on ....
