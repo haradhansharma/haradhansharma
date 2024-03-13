@@ -2,9 +2,9 @@
 👋 Hi, I’m @haradhansharma
 ==========================
 
-- Web Programming || Web Development || Python || Django || Opencart || ERP || CRM || eCommerce
-- Experienced in Textile Industries || 3D Apparel Designing Designing || Techpack Designing || Knitwear
-- Entrepreneurship
+- Web Developer and Technology Enthusiast | Numerous companies worldwide
+- Production Planning and Coordination | Numerous companies within Bangladesh
+- Founder and Entrepreneur | Self-employed
 
   
 
@@ -25,7 +25,27 @@ I have professional expertise in creating web applications, web ERP, CRM, eComme
 
 I've been employed in the coding field for at least ten years.
 
-## My Backend Experience in:
+## Web Developer and Technology Enthusiast | Numerous companies worldwide
+- Diversified Into Web Development, Capitalizing On A Passion For Cutting-Edge Internet Technologies And Autonomous Learning Capabilities.
+- Initiated My Journey In Tech With MS Office, Quickly Adapting Skills To Develop A Database In MS Access, Later Contributing To Its Transformation Into A Multi-User ERP With A .NET Framework.
+- Developed Expertise In Drupal And Drupal Commerce, Constructing Four Websites Independently To Cater To Specific Business Needs.
+- Deepened My Knowledge In E-Commerce With Opencart, Leading To The Development Of POS Systems And Custom Modules Over 5 Years.
+- Transitioned Into Python Programming, With A Focus On Django And Django Rest Framework, Completing Numerous Complex Projects And Excelling In The Freelancing Space.
+
+## Production Planning and Coordination | Numerous companies within Bangladesh
+- Orchestrated Production Planning And Coordination For Two Factories Over A Span Of 13 Years, Demonstrating Exceptional Leadership And Strategic Management Abilities.
+- Expertly Managed Overall Floor Production, Manpower, Utilities, And Established Prioritization Systems To Optimize Operations.
+- Successfully Improved Production Quality And Efficiency, Utilizing Tools Such As Spectrophotometers For Color Matching And Ensuring The Highest Standards.
+- Acted As A Cornerstone For Substantial Growth, Displaying Adaptability And Diligence In The Face Of Evolving Industry Demands.
+
+## Founder and Entrepreneur | Self-employed
+- Launched A Fashion Brand Leveraging A Business Model Imported From The USA, Showcasing Entrepreneurial Spirit And Business Acuity.
+- Secure Substantial Leads And Demonstrated Potential For Expansive Franchise Development, Disrupted Only By The Unforeseen Challenges Of The COVID-19 Pandemic.
+- Hands-On In Every Facet Of The Business Including Lead Generation, CRM Management, Financial Forecasting, Sourcing, 3D Fashion Designing Using CLO3D, Pattern And Sample Development.
+- Managed Marketing Strategies Encompassing Social Media Campaigns, Marketing Material Creation, Communication, And Business Administration.
+
+
+## My Backend Skills:
 - Django
 - Python
 - Django Rest Framework
@@ -39,14 +59,14 @@ I've been employed in the coding field for at least ten years.
 - Reportlab
 - Pandas
 
-## Front End Experience In :
+## FrontEnd Skills :
 - Bootstrap
+- Bootstrap Studio- 
 - HTMX
 - HTML
 - CSS
 - Jquery
 - HTMLtoPDF
-
 
 ## Knowledge In:
 - API Integration
