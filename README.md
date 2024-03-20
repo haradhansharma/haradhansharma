@@ -35,23 +35,22 @@ I've been employed in the coding field for at least ten years.
 - Managed Marketing Strategies Encompassing Social Media Campaigns, Marketing Material Creation, Communication, And Business Administration.
 
 ## Key Qualifications:
-✨ Self-Taught Expertise: My comprehensive knowledge in web development, e-commerce, and digital design stems from a disciplined approach to self-education and a passion for staying at the forefront of technological advancements.
-✨ Practical Application: My skills have been honed through years of direct industry experience, ensuring that my learning is rooted in real-world application and problem-solving.
-✨ Quick Learner: I adapt swiftly to emerging tools and techniques, enabling me to meet the evolving needs of my clients with the most current and effective solutions.
-✨ Continuous Improvement: I am committed to ongoing skill enhancement, regularly updating my professional repertoire to include the latest in web development, software, and digital marketing strategies.
-Through continuous learning and a drive to excel in my endeavors, I provide services that reflect a deep understanding of both the fundamentals and the intricacies of my craft.
+- ✨ Self-Taught Expertise: My comprehensive knowledge in web development, e-commerce, and digital design stems from a disciplined approach to self-education and a passion for staying at the forefront of technological advancements.
+- ✨ Practical Application: My skills have been honed through years of direct industry experience, ensuring that my learning is rooted in real-world application and problem-solving.
+- ✨ Quick Learner: I adapt swiftly to emerging tools and techniques, enabling me to meet the evolving needs of my clients with the most current and effective solutions.
+- ✨ Continuous Improvement: I am committed to ongoing skill enhancement, regularly updating my professional repertoire to include the latest in web development, software, and digital marketing strategies. Through continuous learning and a drive to excel in my endeavors, I provide services that reflect a deep understanding of both the fundamentals and the intricacies of my craft.
 
 ## What I Do:
-🌻 Innovative Textile Design: Seamlessly integrating traditional textile craftsmanship with digital innovation, including 3D fashion modeling using CLO3D.
-🌻 Full-Stack Web Development: Developing end-to-end web solutions using Drupal, WordPress, Django, and Python for a streamlined user experience.
-🌻 E-Commerce Expertise: Creating and managing e-commerce platforms for maximum user engagement and operational efficiency, including Amazon storefronts.
-🌻 Robust Backend Systems: Crafting secure and scalable backend infrastructures that ensure uninterrupted business operations.
-🌻 Engaging Frontend Experiences: Designing user interfaces that effectively communicate your brand's message and enhance user interaction.
-🌻 Graphic Design & Multimedia: Delivering high-impact visual content using tools like Photoshop, Illustrator, and Filmora for graphic and video editing.
-🌻 Business Management & Operations: Streamlining business processes with my in-depth knowledge of management, planning, and coordination.
-🌻 CRM & ERP Solutions: Implementing and optimizing Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems to drive business efficiency.
-🌻 API Development & Integration: Building and integrating Application Programming Interfaces (APIs) to enhance software interconnectivity and functionality.
-🌻 Branding & Identity Development: Crafting unique brand identities that resonate with your target audience and reflect the core values of your business.
+- 🌻 Innovative Textile Design: Seamlessly integrating traditional textile craftsmanship with digital innovation, including 3D fashion modeling using CLO3D.
+- 🌻 Full-Stack Web Development: Developing end-to-end web solutions using Drupal, WordPress, Django, and Python for a streamlined user experience.
+- 🌻 E-Commerce Expertise: Creating and managing e-commerce platforms for maximum user engagement and operational efficiency, including Amazon storefronts.
+- 🌻 Robust Backend Systems: Crafting secure and scalable backend infrastructures that ensure uninterrupted business operations.
+- 🌻 Engaging Frontend Experiences: Designing user interfaces that effectively communicate your brand's message and enhance user interaction.
+- 🌻 Graphic Design & Multimedia: Delivering high-impact visual content using tools like Photoshop, Illustrator, and Filmora for graphic and video editing.
+- 🌻 Business Management & Operations: Streamlining business processes with my in-depth knowledge of management, planning, and coordination.
+- 🌻 CRM & ERP Solutions: Implementing and optimizing Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems to drive business efficiency.
+- 🌻 API Development & Integration: Building and integrating Application Programming Interfaces (APIs) to enhance software interconnectivity and functionality.
+- 🌻 Branding & Identity Development: Crafting unique brand identities that resonate with your target audience and reflect the core values of your business.
 
 ## My Backend Skills:
 - Django
