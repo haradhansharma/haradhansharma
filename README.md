@@ -11,9 +11,15 @@
 - 📫 How to reach me ... [https://hrdnsh.com](https://hrdnsh.com)
 - [My Upwork Profile](https://www.upwork.com/freelancers/~0166a448a65b1641fb?s=1017484851352698949)
 
-I have professional expertise in creating web applications, web ERP, CRM, eCommerce, data analysis, web scraping, data visualization utilizing Python & JS libraries, and the implementation of any business logic.
+Welcome to a space where Python and SQL programming blend seamlessly with web development and e-commerce innovation. With 18 years in the knit textile fabric sector, my journey has taken me from being a Dyeing Machine Operator to a Production Planning and Coordination Manager. This diverse experience shapes my unique approach to creating digital solutions.
 
-I've been employed in the coding field for at least ten years.
+I've spent time as a 3D fashion designer and entrepreneur, transforming ideas into market-ready products. This has been invaluable in my web development career, where I use a wide range of tools like HTML, CSS, HTMX, Django, and Opencart3, Woocommerce to build and manage projects, including robust Industrial ERP systems.
+
+I'm not just a developer but a strategic thinker. Starting a clothing brand and managing a network of prospects have given me practical insights into e-commerce strategy. This, combined with my technical skills in Python and SQL, helps me manage 13 successful Amazon stores.
+
+In addition to development, I handle server management using cPanel and CWP, version control with GitHub, and digital asset creation with Photoshop, Illustrator, and Filmora. My skills in branding, logo design, video editing, social media marketing, and lead generation make me a versatile partner for your business's digital journey.
+
+With a Top Rated status, over $20K in earnings, and a 100% job success score on Upwork, I am dedicated to your success. Partner with me for more than just coding expertise in Python and SQL. Let's create a development strategy that combines technical excellence with business insight, delivering an outstanding online experience for your clients.
 
 ## Web Developer and Technology Enthusiast | Numerous companies worldwide
 - Transitioned Into Python Programming, With A Focus On Django And Django Rest Framework, Completing Numerous Complex Projects And Excelling In The Freelancing Space.
