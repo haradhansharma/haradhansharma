@@ -16,14 +16,15 @@ I have professional expertise in creating web applications, web ERP, CRM, eComme
 I've been employed in the coding field for at least ten years.
 
 ## Web Developer and Technology Enthusiast | Numerous companies worldwide
-- Diversified Into Web Development, Capitalizing On A Passion For Cutting-Edge Internet Technologies And Autonomous Learning Capabilities.
-- Initiated My Journey In Tech With MS Office, Quickly Adapting Skills To Develop A Database In MS Access, Later Contributing To Its Transformation Into A Multi-User ERP With A .NET Framework.
-- Developed Expertise In Drupal And Drupal Commerce, Constructing Four Websites Independently To Cater To Specific Business Needs.
-- Deepened My Knowledge In E-Commerce With Opencart, Leading To The Development Of POS Systems And Custom Modules Over 5 Years.
 - Transitioned Into Python Programming, With A Focus On Django And Django Rest Framework, Completing Numerous Complex Projects And Excelling In The Freelancing Space.
+- Deepened My Knowledge In E-Commerce With Opencart, Leading To The Development Of POS Systems And Custom Modules Over 5 Years.
+- Developed Expertise In Drupal And Drupal Commerce, Constructing many Websites Independently To Cater To Specific Business Needs.
+- Initiated My Journey In Tech With MS Office, Quickly Adapting Skills To Develop A Database In MS Access, Later Contributing To Its Transformation Into A Multi-User ERP.
+- Diversified Into Web Development, Capitalizing On A Passion For Cutting-Edge Internet Technologies And Autonomous Learning Capabilities.
+
 
 ## Production Planning and Coordination | Numerous companies within Bangladesh
-- Orchestrated Production Planning And Coordination For Two Factories Over A Span Of 13 Years, Demonstrating Exceptional Leadership And Strategic Management Abilities.
+- Orchestrated Production Planning And Coordination For Factories Over A Span Of 13 Years, Demonstrating Exceptional Leadership And Strategic Management Abilities.
 - Expertly Managed Overall Floor Production, Manpower, Utilities, And Established Prioritization Systems To Optimize Operations.
 - Successfully Improved Production Quality And Efficiency, Utilizing Tools Such As Spectrophotometers For Color Matching And Ensuring The Highest Standards.
 - Acted As A Cornerstone For Substantial Growth, Displaying Adaptability And Diligence In The Face Of Evolving Industry Demands.
