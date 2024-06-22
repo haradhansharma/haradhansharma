@@ -26,7 +26,6 @@ I've been employed in the coding field for at least ten years.
 ## Production Planning and Coordination | Numerous companies within Bangladesh
 - Orchestrated Production Planning And Coordination For Factories Over A Span Of 13 Years, Demonstrating Exceptional Leadership And Strategic Management Abilities.
 - Expertly Managed Overall Floor Production, Manpower, Utilities, And Established Prioritization Systems To Optimize Operations.
-- Successfully Improved Production Quality And Efficiency, Utilizing Tools Such As Spectrophotometers For Color Matching And Ensuring The Highest Standards.
 - Acted As A Cornerstone For Substantial Growth, Displaying Adaptability And Diligence In The Face Of Evolving Industry Demands.
 
 ## Founder and Entrepreneur | Self-employed
