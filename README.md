@@ -87,22 +87,26 @@ With over four years on Upwork, I bring a wealth of experience and a track recor
 - 🌻 Branding & Identity Development: Crafting unique brand identities that resonate with your target audience and reflect the core values of your business.
 
 ## My Backend Skills:
-- Django
-- Python
+- Django Development
+- Python Programming
 - Django Rest Framework
 - Opencart Framework
 - Drupal
 - Drupal Commerce
+- SQL Programming
 - MySQL
 - PgSQL
 - Background Task
 - Web Scraping
 - Reportlab
-- Pandas
+- Celery
+- Redis
+- Channel
 
 ## FrontEnd Skills :
 - Bootstrap
 - Bootstrap Studio
+- Vue.JS
 - HTMX
 - HTML
 - CSS
