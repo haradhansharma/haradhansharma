@@ -11,21 +11,17 @@
 - 💞️ I’m looking to collaborate on ....
 - [My Upwork Profile](https://www.upwork.com/freelancers/~0166a448a65b1641fb?s=1017484851352698949)
 
-Welcome! I blend Python and SQL programming with web development and e-commerce innovation to create digital solutions that drive success.
+Over the years of experience as a Backend Developer, I specialize in building scalable, high-performance web applications using Python, Django, FastAPI, and modern front-end technologies like Vue.js and NuxtJS. I bring deep expertise in backend development, API design, database optimization, and delivering robust, secure solutions. Whether crafting intuitive user interfaces or architecting complex backends, I’m passionate about creating seamless, responsive applications that meet evolving business needs.
 
-Key Skills:
+✅ Python, Django, FastAPI
+✅ Vue.js, NuxtJS
+✅ SQL & Database Design
+✅ API Development & Integration
+✅ Full-Stack Development & Responsive Web Design
+✅ DevOps (Docker, Nginx)
+✅ Git & Version Control
 
-- ✔️ Frontend: HTML, CSS, HTMX, Vue.js
-- ✔️ Backend: Python, Django, Django Rest Framework, Celery, Redis, Channels
-- ✔️ E-Commerce: Managing Amazon stores, Opencart3, Woocommerce
-- ✔️ DevOps: Docker, Load Balancing, cPanel, CWP, CloudPanel, VPS
-- ✔️ Project Leadership: Technical Project Lead, Server Management
-- ✔️ Version Control: GitHub
-- ✔️ Creative Tools: Photoshop, Illustrator, Filmora
-
-With years in the textile sector and experience as a 3D fashion designer and entrepreneur, I bring a unique perspective to web development and e-commerce strategy. My technical skills and strategic insights help me manage successful projects and drive e-commerce growth.
-
-🏆 On Upwork, I have a Top Rated status, a 100% job success score, and a proven track record of delivering comprehensive solutions that exceed client expectations. Let's partner to create a development strategy that combines technical excellence with business insight for an outstanding online experience.
+Driven by continuous learning and a passion for problem-solving, I focus on delivering innovative, user-centric solutions to my clients.
 
 ## Contractor - Technology Consultancy | Revelo
 - ✔️ On-Demand Task Execution: Performing on-demand tasks in SQL and Python programming, delivering precise and timely solutions for diverse technological needs.
