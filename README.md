@@ -1,137 +1,63 @@
-# 👋 Hi, I’m @haradhansharma
-==========================
-- **Contractor - Technology Consultancy** | Revelo
-- **Professional Freelancer** | Upwork
-- **Web Developer and Technology Enthusiast** | Numerous companies worldwide
-- **Production Planning and Coordination** | Numerous companies within Bangladesh
-- **Founder and Entrepreneur** | Self-employed
+# 🚀 Haradhan Sharma
 
-- 👀 I’m interested in ... Exploring new Challenges!
-- 🌱 I’m currently learning ... New Worlds
-- 💞️ I’m looking to collaborate on ....
-- [My Upwork Profile](https://www.upwork.com/freelancers/~0166a448a65b1641fb?s=1017484851352698949)
+**High-Performance Python Backend Engineer | FastAPI · Django · SQL · Ex-Textile Ops Leader**
 
-Over the years of experience as a Backend Developer, I specialize in building scalable, high-performance web applications using Python, Django, FastAPI, and modern front-end technologies like Vue.js and NuxtJS. I bring deep expertise in backend development, API design, database optimization, and delivering robust, secure solutions. Whether crafting intuitive user interfaces or architecting complex backends, I’m passionate about creating seamless, responsive applications that meet evolving business needs.
+[📄 Full CV (PDF)](https://docs.google.com/document/d/e/2PACX-1vTnkZuz0LN7c8hQZmvS4RMuS1yPah23-ShaZoOb8KccJmNd_oWYFfWCDH-5aX7AcJJKj78fdxtSXVCn/pub) • [🔗 LinkedIn](https://linkedin.com/in/haradhansharma) • [🌐 hrdnsh.com](https://hrdnsh.com) • [🌐 upwork](https://www.upwork.com/freelancers/~0166a448a65b1641fb)
 
-✅ Python, Django, FastAPI
-✅ Vue.js, NuxtJS
-✅ SQL & Database Design
-✅ API Development & Integration
-✅ Full-Stack Development & Responsive Web Design
-✅ DevOps (Docker, Nginx)
-✅ Git & Version Control
+---
 
-Driven by continuous learning and a passion for problem-solving, I focus on delivering innovative, user-centric solutions to my clients.
+## 👋 About Me
 
-## Contractor - Technology Consultancy | Revelo
-- ✔️ On-Demand Task Execution: Performing on-demand tasks in SQL and Python programming, delivering precise and timely solutions for diverse technological needs.
-- ✔️ SQL Expertise: Utilizing advanced SQL skills for database design, query optimization, and data analysis to support client projects and drive data-driven decision-making.
-- ✔️ Python Programming: Applying extensive Python knowledge to develop and maintain efficient, scalable codebases for various applications and automations.
-- ✔️ Client Collaboration: Working closely with clients to understand their technical requirements and provide customized solutions that meet their unique business goals.
-- ✔️ Problem Solving: Tackling complex challenges with innovative approaches, ensuring high-quality and reliable outcomes for consultancy projects.
-- ✔️ Continuous Learning: Staying updated with the latest advancements in SQL and Python, incorporating new techniques and best practices to enhance service offerings.
+I’m a versatile leader turned technologist, blending 18 years of production operations in Bangladesh’s textile sector with 8+ years of building scalable web solutions. I thrive at the intersection of process optimization and software innovation—streamlining operations, architecting rock-solid backends, and delivering measurable business impact.
 
-Joining as a contractor for a technology consultancy, I am committed to leveraging my expertise in SQL and Python programming to deliver impactful solutions. Let's collaborate to address your technology needs with precision and efficiency.
+---
 
-## Professional Freelancer | Upwork
-- ✔️ Backend Specialization: Advanced proficiency in Python, Django, Django Rest Framework, and meticulous database management, constructing robust backend architectures for dynamic websites and applications.
-- ✔️ Scalable Solutions: Committed to crafting scalable, efficient, and secure solutions with each line of code, ensuring reliability and performance.
-- ✔️ Seamless Integration: Skilled in managing servers using industry-standard control panels like cPanel and CWP, guaranteeing resilient infrastructure and seamless integration.
-- ✔️ Version Control Mastery: Proficient in using GitHub for streamlined workflow, team collaboration, and continuous integration.
-- ✔️ Technical Project Leadership: Leveraging project management experience to navigate complex challenges and translate them into high-performing solutions.
-- ✔️ Cross-Disciplinary Expertise: Drawing on a background in production planning and coordination in the textile sector to deliver cohesive and functional digital experiences.
-- ✔️ Top Rated Freelancer: Achieved Top Rated status on Upwork, consistently exceeding client expectations and delivering stability, innovation, and growth.
+## 🛠 Tech Stack & Skills
 
-With over four years on Upwork, I bring a wealth of experience and a track record of delivering exceptional backend solutions. My expertise ensures that your project is in capable hands, ready to meet and exceed your digital needs. Let's collaborate to bring your vision to life with reliable and innovative backend development.
+**Backend:**  
+- Python · Django · FastAPI  
+- PostgreSQL · MySQL · SQLite  
 
+**Frontend:**  
+- Bootstrap · htmx · Vue.js · Nuxt.js  
+- HTML · CSS · JavaScript  
 
-## Web Developer and Technology Enthusiast | Numerous companies worldwide
-- ✔️ Transitioned Into Python Programming, With A Focus On Django And Django Rest Framework, Completing Numerous Complex Projects And Excelling In The Freelancing Space.
-- ✔️ Deepened My Knowledge In E-Commerce With Opencart, Leading To The Development Of POS Systems And Custom Modules Over 5 Years.
-- ✔️ Developed Expertise In Drupal And Drupal Commerce, Constructing many Websites Independently To Cater To Specific Business Needs.
-- ✔️ Initiated My Journey In Tech With MS Office, Quickly Adapting Skills To Develop A Database In MS Access, Later Contributing To Its Transformation Into A Multi-User ERP.
-- ✔️ Diversified Into Web Development, Capitalizing On A Passion For Cutting-Edge Internet Technologies And Autonomous Learning Capabilities.
+**DevOps & Cloud:**  
+- Docker · Nginx · GitHub Actions  
+- Google Cloud Platform (GCP) · VPS  
 
+**Other:**  
+- PineScript · Trading Bots (Binance, Quotex)  
+- ERP/POS Development · CLO3D · Textile Operations  
 
-## Production Planning and Coordination | Numerous companies within Bangladesh
-- ✔️ Orchestrated Production Planning And Coordination For Factories Over A Span Of 13 Years, Demonstrating Exceptional Leadership And Strategic Management Abilities.
-- ✔️ Expertly Managed Overall Floor Production, Manpower, Utilities, And Established Prioritization Systems To Optimize Operations.
-- ✔️ Acted As A Cornerstone For Substantial Growth, Displaying Adaptability And Diligence In The Face Of Evolving Industry Demands.
+---
 
-## Founder and Entrepreneur | Self-employed
-- ✔️ Launched A Fashion Brand Leveraging A Business Model Imported From The USA, Showcasing Entrepreneurial Spirit And Business Acuity.
-- ✔️ Secure Substantial Leads And Demonstrated Potential For Expansive Franchise Development, Disrupted Only By The Unforeseen Challenges Of The COVID-19 Pandemic.
-- ✔️ Hands-On In Every Facet Of The Business Including Lead Generation, CRM Management, Financial Forecasting, Sourcing, 3D Fashion Designing Using CLO3D, Pattern And Sample Development.
-- ✔️ Managed Marketing Strategies Encompassing Social Media Campaigns, Marketing Material Creation, Communication, And Business Administration.
+## 📈 Highlights & Impact
 
-## Key Qualifications:
-- ✨ Self-Taught Expertise: My comprehensive knowledge in web development, e-commerce, and digital design stems from a disciplined approach to self-education and a passion for staying at the forefront of technological advancements.
-- ✨ Practical Application: My skills have been honed through years of direct industry experience, ensuring that my learning is rooted in real-world application and problem-solving.
-- ✨ Quick Learner: I adapt swiftly to emerging tools and techniques, enabling me to meet the evolving needs of my clients with the most current and effective solutions.
-- ✨ Continuous Improvement: I am committed to ongoing skill enhancement, regularly updating my professional repertoire to include the latest in web development, software, and digital marketing strategies. Through continuous learning and a drive to excel in my endeavors, I provide services that reflect a deep understanding of both the fundamentals and the intricacies of my craft.
+- **80% API Latency Reduction**: Cut response times from 250 ms → 40 ms with FastAPI & query tuning.  
+- **12K RPS Sustained**: Architected microservices handling 12,000 requests/sec with sub-50 ms latency.  
+- **15%+ ROI Boost**: Deployed automated trading bots on Binance spot & futures.  
+- **18-Yr Ops Leadership**: Led cross-functional teams in production planning, fabric coordination & quality control.  
+- **Apparel Brand Founder**: Launched & managed a USA-modeled fashion franchise (2019–2021).
 
-## What I Do:
-- 🌻 Innovative Textile Design: Seamlessly integrating traditional textile craftsmanship with digital innovation, including 3D fashion modeling using CLO3D.
-- 🌻 Full-Stack Web Development: Developing end-to-end web solutions using Drupal, WordPress, Django, and Python for a streamlined user experience.
-- 🌻 E-Commerce Expertise: Creating and managing e-commerce platforms for maximum user engagement and operational efficiency, including Amazon storefronts.
-- 🌻 Robust Backend Systems: Crafting secure and scalable backend infrastructures that ensure uninterrupted business operations.
-- 🌻 Engaging Frontend Experiences: Designing user interfaces that effectively communicate your brand's message and enhance user interaction.
-- 🌻 Graphic Design & Multimedia: Delivering high-impact visual content using tools like Photoshop, Illustrator, and Filmora for graphic and video editing.
-- 🌻 Business Management & Operations: Streamlining business processes with my in-depth knowledge of management, planning, and coordination.
-- 🌻 CRM & ERP Solutions: Implementing and optimizing Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) systems to drive business efficiency.
-- 🌻 API Development & Integration: Building and integrating Application Programming Interfaces (APIs) to enhance software interconnectivity and functionality.
-- 🌻 Branding & Identity Development: Crafting unique brand identities that resonate with your target audience and reflect the core values of your business.
+---
 
-## My Backend Skills:
-- Django Development
-- Python Programming
-- Django Rest Framework
-- Opencart Framework
-- Drupal
-- Drupal Commerce
-- SQL Programming
-- MySQL
-- PgSQL
-- Background Task
-- Web Scraping
-- Reportlab
-- Celery
-- Redis
-- Channel
+## 🚀 Featured Projects
 
-## FrontEnd Skills :
-- Bootstrap
-- Bootstrap Studio
-- Vue.JS
-- HTMX
-- HTML
-- CSS
-- Jquery
-- HTMLtoPDF
+- **[trading-bot-suite](https://github.com/haradhansharma/trading-bot-suite)**  
+  Python & FastAPI bots for Binance Spot & Futures; PineScript indicators.  
+- **[ecom-erp](https://github.com/haradhansharma/ecom-erp)**  
+  Django-based ERP with multi-user roles, inventory & order management.  
+- **[htmx-dashboard](https://github.com/haradhansharma/htmx-dashboard)**  
+  Real-time admin dashboard with Bootstrap & htmx for minimal JS footprint.  
+- **[nextjs-portal](https://github.com/haradhansharma/nextjs-portal)**  
+  Next.js frontend integrated with FastAPI backend, featuring SSG & ISR.
 
-## Knowledge In:
-- API Integration
-- Payment Method Integration
-- ERP Development
-- CRM Development
-- eCommerce Functionality
-- Data Modeling
-- Business Logic Implementation
-- Fundamental Linux
-- Web Server
+---
 
-## Others But Not Limited To:
-- CWP
-- Cpanel
-- Pythonanywhere
-- Github
-- VPS
-- CLO3D
-- 3D Apparel 
-- Adobe CC
-- MS Office
-- VS
+## 📫 Get in Touch
 
-Also, I Have Experience in Business Operation, Planning, and co-ordination, Branding, Content Marketing, Production Management, Technical Fashion Designing.
-
-[![Meet Me On Youtube](https://img.youtube.com/vi/YTFfBlgcYMs/maxresdefault.jpg)](https://www.youtube.com/watch?v=YTFfBlgcYMs)
+✉️ haradhan.sharma@gmail.com  
+📞 +880 1712 270815  
+🌐 [hrdnsh.com](https://hrdnsh.com)  
+🔗 [linkedin.com/in/haradhansharma](https://linkedin.com/in/haradhansharma)
