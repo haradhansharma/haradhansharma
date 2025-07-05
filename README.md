@@ -27,7 +27,8 @@ I’m a versatile leader turned technologist, blending 18 years of production op
 - Google Cloud Platform (GCP) · VPS  
 
 **Other:**  
-- PineScript · Trading Bots (Binance, Quotex)  
+- PineScript · Trading Bots (Binance, Quotex)
+- **MQL5 & MetaTrader 5**: Expert EA & indicator development for automated trading  
 - ERP/POS Development · CLO3D · Textile Operations  
 
 ---
