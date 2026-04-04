@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/haradhan-sharma.png" alt="Haradhan Sharma" width="130" height="130" style="border-radius: 50%;">
-<img width="1024" height="1024" alt="haradhan-sharma" src="https://github.com/user-attachments/assets/ed1d535b-9fb7-44ac-aa20-2c9af0c44a63" />
+<img width="130" height="130" alt="haradhan-sharma" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/ed1d535b-9fb7-44ac-aa20-2c9af0c44a63" />
 
 # Haradhan Sharma
 ### Full-Stack Developer & AI Automation Specialist
