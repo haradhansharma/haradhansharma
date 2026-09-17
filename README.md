@@ -1,3 +1,6 @@
+[![Website](https://img.shields.io/badge/Website-hrdnsh.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hrdnsh.com)
+[![Resume](https://img.shields.io/badge/Resume-hrdnsh.com%2Fresume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://hrdnsh.com/resume/)
+
 <div align="center">
 
 <img width="130" height="130" alt="haradhan-sharma" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/ed1d535b-9fb7-44ac-aa20-2c9af0c44a63" />
