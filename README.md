@@ -6,9 +6,9 @@
 <img width="130" height="130" alt="haradhan-sharma" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/ed1d535b-9fb7-44ac-aa20-2c9af0c44a63" />
 
 # Haradhan Sharma
-### Full-Stack Developer & AI Automation Specialist
+### Executive Operations Leader & Chief Enterprise Architect
 
-*Building intelligent systems that help businesses grow — from custom web apps to AI agents that work while you sleep.*
+*20+ Years Industrial Operations (Ex-PPC Head, Fakir Knitwears • CEO) • Enterprise MIS, WMS & Sovereign AI Architecture*
 
 [Email](mailto:me@hrdnsh.com) &nbsp;&bull;&nbsp; [Website](https://hrdnsh.com) &nbsp;&bull;&nbsp; [Upwork](https://www.upwork.com/freelancers/~0166a448a65b1641fb) &nbsp;&bull;&nbsp; +880 1712 270815
 
