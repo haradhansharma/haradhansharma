@@ -1,6 +1,9 @@
 [![Website](https://img.shields.io/badge/Website-hrdnsh.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hrdnsh.com)
 [![Resume](https://img.shields.io/badge/Resume-hrdnsh.com%2Fresume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://hrdnsh.com/resume/)
 
+
+
+
 <div align="center">
 
 <img width="130" height="130" alt="haradhan-sharma" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/ed1d535b-9fb7-44ac-aa20-2c9af0c44a63" />
@@ -433,6 +436,13 @@ I build your solution using agile sprints with regular progress updates. You hav
 ### 4. Launch & Support
 
 After delivery, I provide a thorough handover with documentation, training materials, and a defined support period. For ongoing services, we establish clear SLAs and communication channels.
+
+---
+### 🚀 Production Blueprints & Executive Dossier
+- 📋 [Executive CV & Leadership Dossier (20+ Yrs Factory PPC & Architecture)](https://hrdnsh.com/resume/)
+- 🧠 [Sovereign AI & Private RAG Engineering Blueprint](https://hrdnsh.com/blog/sovereign-ai-vs-chatgpt-enterprise/)
+- 🏭 [Industrial Garments Manufacturing ERPNext Case Study](https://hrdnsh.com/blog/erpnext-for-garments-manufacturing/)
+- 📊 [PostgreSQL pgvector vs Pinecone Enterprise Architecture](https://hrdnsh.com/blog/pgvector-vs-pinecone-enterprise-rag/)
 
 ---
 
